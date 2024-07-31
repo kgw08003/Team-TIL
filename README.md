@@ -14,3 +14,9 @@
 - [Database](Database/)
 - [APIs](APIs/)
 - [Git](Git/)
+
+## (폴더 구조 만들기)
+
+'Add file' > 'Create new file'을 클릭합니다.
+파일 이름에 "Python/README.md"를 입력하고, 간단한 설명을 추가합니다.
+같은 방식으로 다른 카테고리 폴더도 만듭니다.
