@@ -3,7 +3,7 @@
 이 저장소는 우리 팀의 Python 백엔드 부트캠프 학습 내용을 공유하는 곳입니다.
 
 ## 팀 멤버
-- [멤버1 이름](GitHub 프로필 링크)
+- [신덕근](https://github.com/shindeokgeun)
 - [멤버2 이름](GitHub 프로필 링크)
 - [멤버3 이름](GitHub 프로필 링크)
 - [멤버4 이름](GitHub 프로필 링크)
