@@ -3,20 +3,27 @@
 이 저장소는 우리 팀의 Python 백엔드 부트캠프 학습 내용을 공유하는 곳입니다.
 
 ## 팀 멤버
-- [신덕근](https://github.com/shindeokgeun)
+- [멤버1 이름](GitHub 프로필 링크)
 - [멤버2 이름](GitHub 프로필 링크)
 - [멤버3 이름](GitHub 프로필 링크)
 - [멤버4 이름](GitHub 프로필 링크)
 
-## 카테고리 (변경가능)
-- [Python](Python/)
-- [Django](Django/)
-- [Database](Database/)
-- [APIs](APIs/)
-- [Git](Git/)
+## 날짜별 TIL
 
-## (폴더 구조 만들기)
+### 2024년 8월
+- [2024-08-01](2024-08-01.md)
+- [2024-08-02](2024-08-02.md)
+- [2024-08-03](2024-08-03.md)
+- ...
 
-'Add file' > 'Create new file'을 클릭합니다.
-파일 이름에 "Python/README.md"를 입력하고, 간단한 설명을 추가합니다.
-같은 방식으로 다른 카테고리 폴더도 만듭니다.
+## 주요 학습 주제
+- Python
+- Django
+- Database
+- APIs
+- Git
+
+## 학습 자료
+- [Python 공식 문서](https://docs.python.org/)
+- [Django 공식 문서](https://docs.djangoproject.com/)
+- [Git 공식 문서](https://git-scm.com/doc)
