@@ -5,8 +5,8 @@
 ## 팀 멤버
 - [신덕근](https://github.com/shindeokgeun)
 - [김향은](https://github.com/myaneun)
-- [멤버3 이름](GitHub 프로필 링크)
-- [멤버4 이름](GitHub 프로필 링크)
+- [김혜지](https://github.com/hjkim977)
+- [김지웅](GitHub 프로필 링크)
 
 
 
