@@ -12,8 +12,8 @@
 
 ## 📌 날짜별 TIL
 <details>
-    <summary>2024-08.08(목) ~ 2024-08.30(금)</summary>
-    
+    <summary> 💡2024-08.08(목) ~ 2024-08.30(금)💡 </summary>
+<br><br/>    
 <details>
     <summary>2024-08-08 (목)</summary>
   
