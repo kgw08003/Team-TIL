@@ -77,60 +77,60 @@
 <details>
     <summary>2024-08-19 (월)</summary>
  
-  - [2024-08-19 - 혜지](2024-08-19(혜지).md)
-  - [2024-08-19 - 덕근](2024-08-19(덕근).md)
-  - [2024-08-19 - 지웅](2024-08-19(지웅).md)
-  - [2024-08-19 - 향은](2024-08-19(향은).md)  
+  - [2024-08-19 - 혜지](https://github.com/Python-Backend-Team3/Team-TIL/blob/main/8.19%20~%208.30%20%ED%9A%8C%EA%B3%A0/2024-08-19(%ED%98%9C%EC%A7%80).md)
+  - [2024-08-19 - 덕근 : 예비군으로 인해 조퇴]
+  - [2024-08-19 - 지웅](https://github.com/Python-Backend-Team3/Team-TIL/blob/main/8.19%20~%208.30%20%ED%9A%8C%EA%B3%A0/2024-08-19(%EC%A7%80%EC%9B%85).md)
+  - [2024-08-19 - 향은](https://github.com/Python-Backend-Team3/Team-TIL/blob/main/8.19%20~%208.30%20%ED%9A%8C%EA%B3%A0/2024-08-19(%ED%96%A5%EC%9D%80).md) 
 
 </details>
 
 <details>
     <summary>2024-08-20 (화)</summary>
  
-  - [2024-08-20 - 혜지](2024-08-20(혜지).md)
-  - [2024-08-20 - 덕근](2024-08-20(덕근).md)
-  - [2024-08-20 - 지웅](2024-08-20(지웅).md)
-  - [2024-08-20 - 향은](2024-08-20(향은).md)  
+  - [2024-08-20 - 혜지](https://github.com/Python-Backend-Team3/Team-TIL/blob/main/8.19%20~%208.30%20%ED%9A%8C%EA%B3%A0/2024-08-20(%ED%98%9C%EC%A7%80).md)
+  - [2024-08-20 - 덕근](https://github.com/Python-Backend-Team3/Team-TIL/blob/main/8.19%20~%208.30%20%ED%9A%8C%EA%B3%A0/2024-08-20(%EB%8D%95%EA%B7%BC).md)
+  - [2024-08-20 - 지웅](https://github.com/Python-Backend-Team3/Team-TIL/blob/main/8.19%20~%208.30%20%ED%9A%8C%EA%B3%A0/2024-08-20(%EC%A7%80%EC%9B%85).md)
+  - [2024-08-20 - 향은](https://github.com/Python-Backend-Team3/Team-TIL/blob/main/8.19%20~%208.30%20%ED%9A%8C%EA%B3%A0/2024-08-20(%ED%96%A5%EC%9D%80).md)  
 
 </details>
 
 <details>
     <summary>2024-08-21 (수)</summary>
  
-  - [2024-08-21 - 혜지](2024-08-21(혜지).md)
+  - [2024-08-21 - 혜지](https://github.com/Python-Backend-Team3/Team-TIL/blob/main/8.19%20~%208.30%20%ED%9A%8C%EA%B3%A0/2024-08-21(%ED%98%9C%EC%A7%80).md)
   - [2024-08-21 - 덕근](2024-08-21(덕근).md)
-  - [2024-08-21 - 지웅](2024-08-21(지웅).md)
-  - [2024-08-21 - 향은](2024-08-21(향은).md)  
+  - [2024-08-21 - 지웅](https://github.com/Python-Backend-Team3/Team-TIL/blob/main/8.19%20~%208.30%20%ED%9A%8C%EA%B3%A0/2024-08-21(%EC%A7%80%EC%9B%85).md)
+  - [2024-08-21 - 향은](https://github.com/Python-Backend-Team3/Team-TIL/blob/main/8.19%20~%208.30%20%ED%9A%8C%EA%B3%A0/2024-08-21(%ED%96%A5%EC%9D%80).md)  
 
 </details>
 
 <details>
     <summary>2024-08-22 (목)</summary>
  
-  - [2024-08-22 - 혜지](2024-08-22(혜지).md)
-  - [2024-08-22 - 덕근](2024-08-22(덕근).md)
-  - [2024-08-22 - 지웅](2024-08-22(지웅).md)
-  - [2024-08-22 - 향은](2024-08-22(향은).md)  
+  - [2024-08-22 - 혜지](https://github.com/Python-Backend-Team3/Team-TIL/blob/main/8.19%20~%208.30%20%ED%9A%8C%EA%B3%A0/2024-08-22(%ED%98%9C%EC%A7%80).md)
+  - [2024-08-22 - 덕근](https://github.com/Python-Backend-Team3/Team-TIL/blob/main/8.19%20~%208.30%20%ED%9A%8C%EA%B3%A0/2024-08-22(%EB%8D%95%EA%B7%BC).md)
+  - [2024-08-22 - 지웅](https://github.com/Python-Backend-Team3/Team-TIL/blob/main/8.19%20~%208.30%20%ED%9A%8C%EA%B3%A0/2024-08-22(%EC%A7%80%EC%9B%85).md)
+  - [2024-08-22 - 향은](https://github.com/Python-Backend-Team3/Team-TIL/blob/main/8.19%20~%208.30%20%ED%9A%8C%EA%B3%A0/2024-08-22(%ED%96%A5%EC%9D%80).md)  
 
 </details>
 
 <details>
     <summary>2024-08-23 (금)</summary>
  
-  - [2024-08-23 - 혜지](2024-08-23(혜지).md)
+  - [2024-08-23 - 혜지](https://github.com/Python-Backend-Team3/Team-TIL/blob/main/8.19%20~%208.30%20%ED%9A%8C%EA%B3%A0/2024-08-23(%ED%98%9C%EC%A7%80).md)
   - [2024-08-23 - 덕근](2024-08-23(덕근).md)
-  - [2024-08-23 - 지웅](2024-08-23(지웅).md)
-  - [2024-08-23 - 향은](2024-08-23(향은).md)  
+  - [2024-08-23 - 지웅](https://github.com/Python-Backend-Team3/Team-TIL/blob/main/8.19%20~%208.30%20%ED%9A%8C%EA%B3%A0/2024-08-23(%EC%A7%80%EC%9B%85).md)
+  - [2024-08-23 - 향은](https://github.com/Python-Backend-Team3/Team-TIL/blob/main/8.19%20~%208.30%20%ED%9A%8C%EA%B3%A0/2024-08-23(%ED%96%A5%EC%9D%80).md)  
 
 </details>
 
 <details>
     <summary>2024-08-26 (월)</summary>
  
-  - [2024-08-26 - 혜지](2024-08-26(혜지).md)
-  - [2024-08-26 - 덕근](2024-08-26(덕근).md)
-  - [2024-08-26 - 지웅](2024-08-26(지웅).md)
-  - [2024-08-26 - 향은](2024-08-26(향은).md)  
+  - [2024-08-26 - 혜지](https://github.com/Python-Backend-Team3/Team-TIL/blob/main/8.19%20~%208.30%20%ED%9A%8C%EA%B3%A0/2024-08-26(%ED%98%9C%EC%A7%80).md)
+  - [2024-08-26 - 덕근](https://github.com/Python-Backend-Team3/Team-TIL/blob/main/8.19%20~%208.30%20%ED%9A%8C%EA%B3%A0/2024-08-26(%EB%8D%95%EA%B7%BC).md)
+  - [2024-08-26 - 지웅](https://github.com/Python-Backend-Team3/Team-TIL/blob/main/8.19%20~%208.30%20%ED%9A%8C%EA%B3%A0/2024-08-26(%EC%A7%80%EC%9B%85).md)
+  - [2024-08-26 - 향은](https://github.com/Python-Backend-Team3/Team-TIL/blob/main/8.19%20~%208.30%20%ED%9A%8C%EA%B3%A0/2024-08-26(%ED%96%A5%EC%9D%80).md)  
 
 </details>
 
@@ -140,27 +140,29 @@
  
   - [2024-08-27 - 혜지](https://github.com/Python-Backend-Team3/Team-TIL/blob/main/8.19%20~%208.30%20%ED%9A%8C%EA%B3%A0/2024-08-27(%ED%98%9C%EC%A7%80).md)
   - [2024-08-27 - 덕근](2024-08-27(덕근).md)
-  - [2024-08-27 - 지웅](2024-08-27(지웅).md)
-  - [2024-08-27 - 향은](2024-08-27(향은).md)  
+  - [2024-08-27 - 지웅](https://github.com/Python-Backend-Team3/Team-TIL/blob/main/8.19%20~%208.30%20%ED%9A%8C%EA%B3%A0/2024-08-27(%EC%A7%80%EC%9B%85).md)
+  - [2024-08-27 - 향은](https://github.com/Python-Backend-Team3/Team-TIL/blob/main/8.19%20~%208.30%20%ED%9A%8C%EA%B3%A0/2024-08-27(%ED%96%A5%EC%9D%80).md)  
 
 </details>
 
 
 <details>
-    <summary>2024-08-28 (수)</summary>
- 
+    <summary>2024-08-28 (수) :팀프로젝트</summary>
+    
+  - [2024-08-28 - 팀프로젝트](2024-08-28(팀프로젝트).md)
   - [2024-08-28 - 혜지](2024-08-28(혜지).md)
   - [2024-08-28 - 덕근](2024-08-28(덕근).md)
   - [2024-08-28 - 지웅](2024-08-28(지웅).md)
   - [2024-08-28 - 향은](2024-08-28(향은).md)
-  - [2024-08-28 - 팀프로젝트](2024-08-28(팀프로젝트).md)
+  
 
 </details>
 
 
 <details>
-    <summary>2024-08-29 (목)</summary>
- 
+    <summary>2024-08-29 (목) :팀프로젝트</summary>
+    
+  - [2024-08-28 - 팀프로젝트](2024-08-28(팀프로젝트).md)
   - [2024-08-29 - 혜지](2024-08-29(혜지).md)
   - [2024-08-29 - 덕근](2024-08-29(덕근).md)
   - [2024-08-29 - 지웅](2024-08-29(지웅).md)
@@ -169,8 +171,9 @@
 </details>
 
 <details>
-    <summary>2024-08-30 (금)</summary>
- 
+    <summary>2024-08-30 (금) :팀프로젝트</summary>
+    
+  - [2024-08-28 - 팀프로젝트](2024-08-28(팀프로젝트).md)
   - [2024-08-30 - 혜지](2024-08-30(혜지).md)
   - [2024-08-30 - 덕근](2024-08-30(덕근).md)
   - [2024-08-30 - 지웅](2024-08-30(지웅).md)
