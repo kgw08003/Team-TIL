@@ -138,7 +138,7 @@
 <details>
     <summary>2024-08-27 (화)</summary>
  
-  - [2024-08-27 - 혜지](https://github.com/Python-Backend-Team3/TeamTIL/blob/main/8.19%20~%208.30%20%ED%9A%8C%EA%B3%A0/2024-08-27(%ED%98%9C%EC%A7%80).md)
+  - [2024-08-27 - 혜지](https://github.com/Python-Backend-Team3/Team-TIL/blob/main/8.19%20~%208.30%20%ED%9A%8C%EA%B3%A0/2024-08-27(%ED%98%9C%EC%A7%80).md)
   - [2024-08-27 - 덕근](2024-08-27(덕근).md)
   - [2024-08-27 - 지웅](2024-08-27(지웅).md)
   - [2024-08-27 - 향은](2024-08-27(향은).md)  
