@@ -147,7 +147,7 @@
 
 
 <details>
-    <summary>2024-08-28 (수) :팀프로젝트</summary>
+    <summary>2024-08-28 (수) : 팀프로젝트</summary>
     
   - [2024-08-28 - 팀프로젝트](https://github.com/Python-Backend-Team3/Team-TIL/blob/main/8.19%20~%208.30%20%ED%9A%8C%EA%B3%A0/2024-08-28(%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8).md)
 
@@ -157,7 +157,7 @@
 
 
 <details>
-    <summary>2024-08-29 (목) :팀프로젝트</summary>
+    <summary>2024-08-29 (목) : 팀프로젝트</summary>
     
   - [2024-08-29 - 팀프로젝트](2024-08-29(팀프로젝트).md)
 
@@ -165,7 +165,7 @@
 </details>
 
 <details>
-    <summary>2024-08-30 (금) :팀프로젝트</summary>
+    <summary>2024-08-30 (금) : 팀프로젝트</summary>
     
   - [2024-08-30 - 팀프로젝트](2024-08-30(팀프로젝트).md)
 
@@ -177,70 +177,70 @@
     <summary> 💡[팀프로젝트 기간] 2024-09.02(월) ~ 2024-09.13(금)💡 </summary>
 <br><br/>
 <details>
-    <summary>2024-09-02 (월) :팀프로젝트</summary>
+    <summary>2024-09-02 (월) : 팀프로젝트</summary>
     
   - [2024-09-02 - 팀프로젝트]()
 
 </details>
 
 <details>
-    <summary>2024-09-03 (화) :팀프로젝트</summary>
+    <summary>2024-09-03 (화) : 팀프로젝트</summary>
     
   - [2024-09-03 - 팀프로젝트]()
 
 </details>
 
 <details>
-    <summary>2024-09-04 (수) :팀프로젝트</summary>
+    <summary>2024-09-04 (수) : 팀프로젝트</summary>
     
   - [2024-09-04 - 팀프로젝트]()
 
 </details>
 
 <details>
-    <summary>2024-09-05 (목) :팀프로젝트</summary>
+    <summary>2024-09-05 (목) : 팀프로젝트</summary>
     
   - [2024-09-05 - 팀프로젝트]()
 
 </details>
 
 <details>
-    <summary>2024-09-06 (금) :팀프로젝트</summary>
+    <summary>2024-09-06 (금) : 팀프로젝트</summary>
     
   - [2024-09-06 - 팀프로젝트]()
 
 </details>
 
 <details>
-    <summary>2024-09-09 (월) :팀프로젝트</summary>
+    <summary>2024-09-09 (월) : 팀프로젝트</summary>
     
   - [2024-09-09 - 팀프로젝트]()
 
 </details>
 
 <details>
-    <summary>2024-09-10 (화) :팀프로젝트</summary>
+    <summary>2024-09-10 (화) : 팀프로젝트</summary>
     
   - [2024-09-10 - 팀프로젝트]()
 
 </details>
 
 <details>
-    <summary>2024-09-11 (수) :팀프로젝트</summary>
+    <summary>2024-09-11 (수) : 팀프로젝트</summary>
     
   - [2024-09-11 - 팀프로젝트]()
 
 </details>
 
 <details>
-    <summary>2024-09-12 (목) :팀프로젝트</summary>
+    <summary>2024-09-12 (목) : 팀프로젝트</summary>
     
   - [2024-09-12 - 팀프로젝트]()
 
 </details>
 
 <details>
-    <summary>2024-09-13 (금) :팀프로젝트</summary>
+    <summary>2024-09-13 (금) : 팀프로젝트</summary>
     
   - [2024-09-13 - 팀프로젝트]()
 
@@ -251,7 +251,7 @@
     <summary> 💡2024-09.19(목) ~ 2024-09.30(월)💡 </summary>
 <br><br/>
 <details>
-    <summary>2024-09-19 (목) :팀프로젝트</summary>
+    <summary>2024-09-19 (목)</summary>
     
   - [2024-09-19 - 혜지](.md)
   - [2024-09-19 - 덕근](.md)
@@ -261,7 +261,7 @@
 </details>
 
 <details>
-    <summary>2024-09-20 (금) :팀프로젝트</summary>
+    <summary>2024-09-20 (금)</summary>
     
   - [2024-09-20 - 혜지](.md)
   - [2024-09-20 - 덕근](.md)
@@ -271,7 +271,7 @@
 </details>
 
 <details>
-    <summary>2024-09-23 (월) :팀프로젝트</summary>
+    <summary>2024-09-23 (월)</summary>
     
   - [2024-09-23 - 혜지](.md)
   - [2024-09-23 - 덕근](.md)
@@ -281,7 +281,7 @@
 </details>
 
 <details>
-    <summary>2024-09-24 (화) :팀프로젝트</summary>
+    <summary>2024-09-24 (화)</summary>
     
   - [2024-09-24 - 혜지](.md)
   - [2024-09-24 - 덕근](.md)
@@ -291,7 +291,7 @@
 </details>
 
 <details>
-    <summary>2024-09-25 (수) :팀프로젝트</summary>
+    <summary>2024-09-25 (수)</summary>
     
   - [2024-09-25 - 혜지](.md)
   - [2024-09-25 - 덕근](.md)
@@ -301,7 +301,7 @@
 </details>
 
 <details>
-    <summary>2024-09-26 (목) :팀프로젝트</summary>
+    <summary>2024-09-26 (목)</summary>
     
   - [2024-09-26 - 혜지](.md)
   - [2024-09-26 - 덕근](.md)
@@ -310,7 +310,7 @@
 
 </details>
 <details>
-    <summary>2024-09-27 (금) :팀프로젝트</summary>
+    <summary>2024-09-27 (금)</summary>
     
   - [2024-09-27 - 혜지](.md)
   - [2024-09-27 - 덕근](.md)
@@ -320,7 +320,7 @@
 </details>
 
 <details>
-    <summary>2024-09-30 (월) :팀프로젝트</summary>
+    <summary>2024-09-30 (월)</summary>
     
   - [2024-09-30 - 혜지](.md)
   - [2024-09-30 - 덕근](.md)
