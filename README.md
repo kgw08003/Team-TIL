@@ -330,6 +330,7 @@
 </details>
 </details>
 <br><br/>
+
 <!--
 ## 알고리즘 문제
 
@@ -351,14 +352,15 @@
 -------------------------------------------------------
 
 -->
-## 주요 학습 주제
+
+## 📍 주요 학습 주제
 - Python
 - Django
 - Database
 - APIs
 - Git
 
-## 학습 자료
+## 🔍 학습 자료
 - [Python 공식 문서](https://docs.python.org/)
 - [Django 공식 문서](https://docs.djangoproject.com/)
 - [Git 공식 문서](https://git-scm.com/doc)
