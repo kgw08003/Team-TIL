@@ -329,7 +329,21 @@
 
 </details>
 </details>
-<br><br/>
+<br></br>
+
+## 📍 주요 학습 주제
+- Python
+- Django
+- Database
+- APIs
+- Git
+<br></br>
+
+## 🔍 학습 자료
+- [Python 공식 문서](https://docs.python.org/)
+- [Django 공식 문서](https://docs.djangoproject.com/)
+- [Git 공식 문서](https://git-scm.com/doc)
+
 
 <!--
 ## 알고리즘 문제
@@ -352,15 +366,3 @@
 -------------------------------------------------------
 
 -->
-
-## 📍 주요 학습 주제
-- Python
-- Django
-- Database
-- APIs
-- Git
-
-## 🔍 학습 자료
-- [Python 공식 문서](https://docs.python.org/)
-- [Django 공식 문서](https://docs.djangoproject.com/)
-- [Git 공식 문서](https://git-scm.com/doc)
