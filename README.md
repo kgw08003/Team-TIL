@@ -107,7 +107,7 @@
 <details>
     <summary>2024-08-22 (목)</summary>
  
-  - [2024-08-22 - 혜지](https://github.com/Python-Backend-Team3/Team-TIL/blob/main/8.19%20~%208.30%20%ED%9A%8C%EA%B3%A0/2024-08-22(%ED%98%9C%EC%A7%80).md)
+  - [2024-08-22 - 혜지]
   - [2024-08-22 - 덕근](https://github.com/Python-Backend-Team3/Team-TIL/blob/main/8.19%20~%208.30%20%ED%9A%8C%EA%B3%A0/2024-08-22(%EB%8D%95%EA%B7%BC).md)
   - [2024-08-22 - 지웅](https://github.com/Python-Backend-Team3/Team-TIL/blob/main/8.19%20~%208.30%20%ED%9A%8C%EA%B3%A0/2024-08-22(%EC%A7%80%EC%9B%85).md)
   - [2024-08-22 - 향은](https://github.com/Python-Backend-Team3/Team-TIL/blob/main/8.19%20~%208.30%20%ED%9A%8C%EA%B3%A0/2024-08-22(%ED%96%A5%EC%9D%80).md)  
@@ -164,13 +164,6 @@
 
 </details>
 
-<details>
-    <summary>2024-08-30 (금) : 팀프로젝트</summary>
-    
-  - [2024-08-30 - 팀프로젝트](2024-08-30(팀프로젝트).md)
-
-
-</details>
 <br></br></details>  
 
 <details>
