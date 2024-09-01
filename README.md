@@ -159,7 +159,7 @@
 <details>
     <summary>2024-08-29 (목) : 팀프로젝트</summary>
     
-  - [2024-08-29 - 팀프로젝트](2024-08-29(팀프로젝트).md)
+  - [2024-08-29 - 팀프로젝트](https://github.com/Python-Backend-Team3/Team-TIL/blob/main/8.19%20~%208.30%20%ED%9A%8C%EA%B3%A0/2024-08-29(%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8).md)
 
 
 </details>
