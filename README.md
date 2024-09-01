@@ -171,7 +171,8 @@
 
 
 </details>
-</details>  
+<br></br></details>  
+
 <details>
     <summary> 💡[팀프로젝트 기간] 2024-09.02(월) ~ 2024-09.13(금)💡 </summary>
 <br><br/>
@@ -244,7 +245,7 @@
   - [2024-09-13 - 팀프로젝트]()
 
 </details>
-</details>
+<br></br></details>
 
 <details>
     <summary> 💡2024-09.19(목) ~ 2024-09.30(월)💡 </summary>
