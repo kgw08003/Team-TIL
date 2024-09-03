@@ -172,7 +172,7 @@
 <details>
     <summary>2024-09-02 (월) : 팀프로젝트</summary>
     
-  - [2024-09-02 - 팀프로젝트]()
+  - [2024-09-02 - 팀프로젝트](https://github.com/Python-Backend-Team3/Team-TIL/blob/main/9.2%20~%209.13%20%5B%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B8%B0%EA%B0%84%5D/2024-09-02.md)
 
 </details>
 
