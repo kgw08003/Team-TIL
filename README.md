@@ -176,61 +176,6 @@
 
 </details>
 
-<details>
-    <summary>2024-09-03 (화) : 팀프로젝트</summary>
-    
-  - [2024-09-03 - 팀프로젝트]
-
-</details>
-
-<details>
-    <summary>2024-09-04 (수) : 팀프로젝트</summary>
-    
-  - [2024-09-04 - 팀프로젝트]
-
-</details>
-
-<details>
-    <summary>2024-09-05 (목) : 팀프로젝트</summary>
-    
-  - [2024-09-05 - 팀프로젝트]
-
-</details>
-
-<details>
-    <summary>2024-09-06 (금) : 팀프로젝트</summary>
-    
-  - [2024-09-06 - 팀프로젝트]
-
-</details>
-
-<details>
-    <summary>2024-09-09 (월) : 팀프로젝트</summary>
-    
-  - [2024-09-09 - 팀프로젝트]
-
-</details>
-
-<details>
-    <summary>2024-09-10 (화) : 팀프로젝트</summary>
-    
-  - [2024-09-10 - 팀프로젝트]
-
-</details>
-
-<details>
-    <summary>2024-09-11 (수) : 팀프로젝트</summary>
-    
-  - [2024-09-11 - 팀프로젝트]
-
-</details>
-
-<details>
-    <summary>2024-09-12 (목) : 팀프로젝트</summary>
-    
-  - [2024-09-12 - 팀프로젝트]
-
-</details>
 
 <details>
     <summary>2024-09-13 (금) : 팀프로젝트</summary>
