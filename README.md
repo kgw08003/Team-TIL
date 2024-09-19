@@ -246,7 +246,7 @@
 <details>
     <summary>2024-09-19 (목)</summary>
     
-  - [2024-09-19 - 혜지](.md)
+  - [2024-09-19 - 혜지](https://github.com/Python-Backend-Team3/Team-TIL/blob/main/9.19%20~%209.30%20%ED%9A%8C%EA%B3%A0/2024-09-19%20-%20%ED%98%9C%EC%A7%80)
   - [2024-09-19 - 덕근](.md)
   - [2024-09-19 - 지웅](.md)
   - [2024-09-19 - 향은](.md)  
