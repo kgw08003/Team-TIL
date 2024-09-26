@@ -503,7 +503,7 @@
 <br></br></details>  
 <br></br>
 
-## 📋 팀노션페이지
+## 📋 팀 노션
 - [해당 링크](https://www.notion.so/likelion/45fec83f5e744678ac9450b09bc1327a)
 <br></br>
 
