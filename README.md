@@ -284,7 +284,7 @@
 <details>
     <summary>2024-10-02 (수)</summary>
 
-  - [2024-10-02 - 혜지]
+  - [2024-10-02 - 혜지](https://github.com/Python-Backend-Team3/Team-TIL/blob/main/10.1%20~%2010.15%20%ED%9A%8C%EA%B3%A0/2024-10-02%20-%20%ED%98%9C%EC%A7%80.md)
   - [2024-10-02 - 덕근]
   - [2024-10-02 - 지웅](https://github.com/Python-Backend-Team3/Team-TIL/blob/main/10.1%20~%2010.15%20%ED%9A%8C%EA%B3%A0/2024-10-02%20-%20%EC%A7%80%EC%9B%85.md)
   - [2024-10-02 - 향은]
