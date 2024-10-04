@@ -292,22 +292,12 @@
 </details>
 
 <details>
-    <summary>2024-10-03 (목)</summary>
-
-  - [2024-10-03 - 혜지]
-  - [2024-10-03 - 덕근]
-  - [2024-10-03 - 지웅]
-  - [2024-10-03 - 향은]
-
-</details>
-
-<details>
     <summary>2024-10-04 (금)</summary>
  
-  - [2024-10-04 - 혜지]
+  - [2024-10-04 - 혜지](https://github.com/Python-Backend-Team3/Team-TIL/blob/main/10.1%20~%2010.15%20%ED%9A%8C%EA%B3%A0/2024-10-04%20-%20%ED%98%9C%EC%A7%80.md)
   - [2024-10-04 - 덕근]
-  - [2024-10-04 - 지웅]
-  - [2024-10-04 - 향은]  
+  - [2024-10-04 - 지웅](https://github.com/Python-Backend-Team3/Team-TIL/blob/main/10.1%20~%2010.15%20%ED%9A%8C%EA%B3%A0/2024-10-04%20-%20%EC%A7%80%EC%9B%85.md)
+  - [2024-10-04 - 향은](https://github.com/Python-Backend-Team3/Team-TIL/blob/main/10.1%20~%2010.15%20%ED%9A%8C%EA%B3%A0/2024-10-04%20-%20%ED%96%A5%EC%9D%80.md)
 
 </details>
 
@@ -328,16 +318,6 @@
   - [2024-10-08 - 덕근]
   - [2024-10-08 - 지웅]
   - [2024-10-08 - 향은]
-
-</details>
-
-<details>
-    <summary>2024-10-09 (수)</summary>
- 
-  - [2024-10-09 - 혜지]
-  - [2024-10-09 - 덕근]
-  - [2024-10-09 - 지웅]
-  - [2024-10-09 - 향은]
 
 </details>
 
